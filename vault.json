@@ -1,0 +1,1 @@
+{"version": 1, "kdf": "PBKDF2-HMAC-SHA256", "iterations": 600000, "cipher": "AES-256-GCM", "salt": "O26nqe6eHHBdJrsv+T8LDg==", "iv": "1LjNwNE0MtiX/+nL", "aad": "alphino1.github.io/research-communication-vault"}
